@@ -1,10 +1,10 @@
 # GitShow
 
-This is a solo project o show my C# capabilities. 
+This is a solo project o show my C# capabilities. </br>
 
-Samples to Complete:
-Declare a Variable
-Declare a Variable with Initial Value
+Samples to Complete: </br>
+Declare a Variable </br>
+Declare a Variable with Initial Value </br>
 Change the value of a variable
 Generate a string representation of the value in a variable
 Convert a string to an int
