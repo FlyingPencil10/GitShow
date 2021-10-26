@@ -152,3 +152,30 @@ Consume a REST web service published as an Azure API app in a UWP application </
 Retrieve data from a Rest web service in a UWP app </br>
 Add a new data item to a REST web service from a UWP app </br>
 Update an existing item in a REST web service from a UWP app </br>
+
+
+WPF Design
+Templates/Styles
+Data Binding
+Declarative UI
+MVVM
+Triggers
+Layout and Controls
+  <ol>
+  <li>Button</li>
+  <li>Calendar</li>
+
+  <li>Checkbox</li>
+  <li>Combobox</li>
+  <li>Datepicker</li>
+  <li>DockPanel</li>
+  <li>Frame</li>
+  <li>Panels</li>
+  <ol>
+    <li>Canvas</li>
+    <li>Frame</li>
+    <li>Grid</li>
+    <li>StackPanel</li>
+    <li>WarpPanel</li>
+  </ol>
+  </ol>
