@@ -4,7 +4,7 @@ This is a solo project to show my C# capabilities. </br>
 
 For recruiters and managers who want to see a more in depth private WPF project please email steven.barton.fa@gmail.com.
  
-+( Green highlights )+ are items I am learning and completed without assistence form any outside source. 
+**Bold items** I am learning and completed without assistence form any outside source. 
 The format of Item - Location first used will be used below.
 
 Samples to Complete: </br>
