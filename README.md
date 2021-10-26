@@ -2,6 +2,8 @@
 
 This is a solo project o show my C# capabilities. </br>
 
+Completed
+
 Samples to Complete: </br>
 Declare a Variable </br>
 Declare a Variable with Initial Value </br>
