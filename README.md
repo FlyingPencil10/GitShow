@@ -154,25 +154,54 @@ Add a new data item to a REST web service from a UWP app </br>
 Update an existing item in a REST web service from a UWP app </br>
 
 
-WPF Design
-Templates/Styles
-Data Binding
-Declarative UI
-MVVM
-Triggers
+WPF Design </br>
+Templates/Styles </br>
+Data Binding </br>
+Declarative UI </br>
+MVVM </br>
+Triggers </br>
 Layout and Controls
   <ol>
-  <li>Button</li>
-  <li>Calendar</li>
+  <li>Content</li>
+  <ol>
+    <li>Button</li>
+    <li>Calendar</li>
+    <li>Checkbox</li>
+    <li>Combobox</li>
+    <li>Datepicker</li>
+    <li>Document Viewer & XPS Conversion</li>
+    <li>Image</li>
+    <li>Label</li>
+    <li>Listbox</li>
+    <li>ListView</li>
+    <li>Media Element</li>
+    <li>PasswordBox</li>
+    <li>RadioButton</li>
+    <li>ScrollViewer</li>
+    <li>Slider</li>
+    <li>TabControl</li>
+    <li>TextBlock</li>
+    <li>TextBox</li>
+    <li>Treeview</li>
+  </ol>
 
-  <li>Checkbox</li>
-  <li>Combobox</li>
-  <li>Datepicker</li>
-  <li>DockPanel</li>
-  <li>Frame</li>
+  <li>GridSplitter</li>
+  <li>GroupBox</li>
+  <li>Navigation</li>
+  <ol>
+      <li>ToolBar/ToolBarTray/ToolBarPanel</li>
+      <li>Menu</li>
+      <li>Expander</li>
+  </ol>
+
+  <li>Progress Bar</li>
+  <li>StatusBar</li>
+
   <li>Panels</li>
   <ol>
     <li>Canvas</li>
+    <li>Datagrid</li>
+    <li>DockPanel</li>
     <li>Frame</li>
     <li>Grid</li>
     <li>StackPanel</li>
