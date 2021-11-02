@@ -210,4 +210,11 @@ Layout and Controls
     <li>StackPanel</li>
     <li>WarpPanel</li>
   </ol>
+ 
+   <li>Panels</li>
+  <ol>
+    <li>**Window - Beginning**</li>
+    <li>Page</li>
+    <li>User Control</li>
+  </ol>
   </ol>
