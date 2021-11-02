@@ -213,7 +213,7 @@ Layout and Controls
  
    <li>Panels</li>
   <ol>
-    <li>**Window - Beginning**</li>
+   <li><B>Window - Beginning</B></li>
     <li>Page</li>
     <li>User Control</li>
   </ol>
