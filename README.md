@@ -14,8 +14,6 @@ Change the value of a variable </br>
 Generate a string representation of the value in a variable </br>
 Convert a string to an int </br>
 Override the precedence of an operator </br>
-Convert a string to an int </br>
-Override the precedence of an operator </br>
 Assign the same value to several variables </br>
 Increment of decrement a variable </br>
 Declare a method </br>
@@ -167,14 +165,14 @@ Layout and Controls
   <ol>
   <li>Content</li>
   <ol>
-    <li>Button</li>
+    <li><b>Button - Beginning</b></li>
     <li>Calendar</li>
     <li>Checkbox</li>
     <li>Combobox</li>
     <li>Datepicker</li>
     <li>Document Viewer & XPS Conversion</li>
     <li>Image</li>
-    <li>Label</li>
+   <li><b>Label - Beginning</b></li>
     <li>Listbox</li>
     <li>ListView</li>
     <li>Media Element</li>
@@ -211,7 +209,7 @@ Layout and Controls
     <li>WarpPanel</li>
   </ol>
  
-   <li>Panels</li>
+   <li>Visualization Methods</li>
   <ol>
    <li><B>Window - Beginning</B></li>
     <li>Page</li>
