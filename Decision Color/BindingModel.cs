@@ -8,5 +8,9 @@ namespace Decision_Color
 {
     class BindingModel
     {
+        private void statementchange()
+        {
+
+        }
     }
 }
