@@ -8,11 +8,11 @@ For recruiters and managers who want to see a more in depth private WPF project 
 The format of Item - Location first used will be used below.
 
 Samples to Complete: </br>
-Declare a Variable </br>
-Declare a Variable with Initial Value </br>
-Change the value of a variable </br>
-Generate a string representation of the value in a variable </br>
-Convert a string to an int </br>
+<b>Declare a Variable - MiscClasses.Variable</B> </br>
+<b>Declare a Variable with Initial Value - MiscClasses.Variable</B></br>
+<b>Change the value of a variable - MiscClasses.Variable</B></br>
+<b>Generate a string representation of the value in a variable - Beginning.MainWindow</b> </br>
+<b>Convert a string to an int Beginning.MainWindow</b></br>
 Override the precedence of an operator </br>
 Assign the same value to several variables </br>
 Increment of decrement a variable </br>
