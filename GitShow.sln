@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitShow", "GitShow\GitShow.csproj", "{C434947C-EB98-4D40-9720-D323CC33D146}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beginning", "GitShow\Beginning.csproj", "{C434947C-EB98-4D40-9720-D323CC33D146}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decision Color", "Decision Color\Decision Color.csproj", "{68A824F0-DD04-4B11-B81D-930B82510CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiscClasses", "MiscClasses\MiscClasses.csproj", "{EE28A94A-E0B3-431C-9A0E-6C0A86710582}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C434947C-EB98-4D40-9720-D323CC33D146}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C434947C-EB98-4D40-9720-D323CC33D146}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C434947C-EB98-4D40-9720-D323CC33D146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A824F0-DD04-4B11-B81D-930B82510CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A824F0-DD04-4B11-B81D-930B82510CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A824F0-DD04-4B11-B81D-930B82510CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A824F0-DD04-4B11-B81D-930B82510CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE28A94A-E0B3-431C-9A0E-6C0A86710582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE28A94A-E0B3-431C-9A0E-6C0A86710582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE28A94A-E0B3-431C-9A0E-6C0A86710582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE28A94A-E0B3-431C-9A0E-6C0A86710582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
