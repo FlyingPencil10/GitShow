@@ -16,22 +16,19 @@ Samples to Complete: </br>
 Override the precedence of an operator </br>
 Assign the same value to several variables </br>
 Increment of decrement a variable </br>
-Declare a method </br>
-Return a value from within a method </br>
+<b>Declare a method - MiscClasses.Variable </b></br>
+<b?Return a value from within a method </br>
 Return multiple values from within a method </br>
 Return from a method before the end of the method </br>
 Define an expression-bodied method </br>
-Call a method </br>
+<b>Call a method - Beginning.Mainwindow</b> </br>
 Call a method that returns a tuple </br>
 Using the generate method stub wizard </br>
 Creating a nested method </br>
-Display the debug toolbar </br>
-Step into a method </br>
-Step out of a method </br>
 Specify an optional parameter to a method </br>
 Pass a method argument as a named parameter </br>
-Add an amount to a variable </br>
-Subtract an amount from a variable </br>
+<b>Add an amount to a variable Beginning.Mainwindow</b></br>
+<b>Subtract an amount from a variable Beginning.Mainwindow</b></br>
 Run one or more statements zero or more times while a condition is true </br>
 Repeatedly execute statements one or more times </br>
 Catch a specific exception </br>
@@ -39,7 +36,7 @@ Ensure that integer arithmetic is always checked for overflow </br>
 Throw an exception </br>
 Catch all exceptions in a single catch handler  </br>
 Ensure that some code will always run, even if an exception is thrown </br>
-Declare a Class </br>
+<B>Declare a Class - MiscClassse.Variable </b></br>
 Declare a constructor </br>
 Call a constructor </br>
 Declare a static method </br>
